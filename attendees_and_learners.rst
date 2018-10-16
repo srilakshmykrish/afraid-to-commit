@@ -49,6 +49,7 @@ PyCon UK in Coventry, 21st September 2015
 * Sylvain Gubian
 * Adam Johns https://github.com/ninjaExploder/
 * Glen Davies https://github.com/glen442 @GlenDaviesDev
+* Srilakshmy https://github.com/srilakshmykrish
 
 DjangoGirls in Portland, 27th August 2015
 ------------------------------------------
